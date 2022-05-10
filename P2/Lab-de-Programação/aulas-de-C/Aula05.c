@@ -10,7 +10,7 @@ int main ()
 
     MinhaIdade = 19;
 
-    printf("Sua idade Ã© %d anos.\n", MinhaIdade);
+    printf("Sua idade é %d anos.\n", MinhaIdade);
 
 
     system("pause");
