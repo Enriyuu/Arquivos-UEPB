@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <locale.h>
+#include <stdlib.h>
 
 int main ()
 {
@@ -11,7 +11,6 @@ int main ()
     MinhaIdade = 19;
 
     printf("Sua idade é %d anos.\n", MinhaIdade);
-
 
     system("pause");
     return 0;
